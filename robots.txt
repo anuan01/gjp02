@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://m.bernardinum.com.pl/sitemap.xml
